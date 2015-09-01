@@ -11,7 +11,7 @@
 
 
 I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_. 
-I am also affliated with `Berkeley Institute for Data Science <http://bides.berkeley.edu>`_.
+I am also affliated with `Berkeley Institute for Data Science <http://bids.berkeley.edu>`_.
 
 I write a lot of programs that produce and sweep through a lot of data; I mainly use `ViM <http://www.vim.org>`_ to
 do the programming. Those are worthwhile and allowed to be hosted on the internet, are can be found at
