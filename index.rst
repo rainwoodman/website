@@ -35,7 +35,7 @@ for days; that's hundreds of millions of CPU-hours:
 
 - `The BlueTides Simulation <http://bluetides-project.org/>`_
 
-Here is a list of research topics and projects that I am interested in and/or have contributed to:
+Here is a list of research topics and projects that I have contributed to:
 
 - Cosmology
 
