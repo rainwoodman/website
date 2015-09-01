@@ -1,0 +1,89 @@
+.. title: Yu Feng's Home Page
+.. slug: index
+.. type: text
+.. hidetitle: true
+
+.. attention::
+
+  .. class:: align-center
+
+    Probably need to put a picture here.
+
+
+I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_. 
+I am also affliated with `Berkeley Institute for Data Science <http://bides.berkeley.edu>`_.
+
+My work spans three fields: 
+Cosmology, 
+extreme-scale super-computing applications, and
+tools for scientific data science.
+
+Here is a list of research topics and projects that I am interested in and/or have contributed to:
+
+- Cosmology
+
+  - Large Scale Structure and cosmology; [#lya]_ [#eulerrecon]_ [#fastpm]_
+
+  - Formation of galaxies, galaxy clusters, star-formation models 
+    and super-massive blackholes. [#coldflow]_ [#mbzoom]_ [#mb2]_ [#bluetides]_
+
+  - Weak lensing and intrinsic alignments. [#alignment]_
+
+  - Reduction of imaging data from imaging surveys. [#desi]_
+
+- Super-computing Applications
+
+  - Solver for cosmological hydrodynamics; [#MP-Gadget]_
+
+  - Parallel Fast Fourier Transformation; [#pfft-python]_
+
+  - Massively parallel sorting; [#mpsort]_
+
+  - Python on super-computers; [#python-mpi-bcast]_
+
+- Scientific Data Analysis
+
+  - Parallel data analysis of N-body simulations [#nbodykit]_
+
+  - Hierarchical Data Format for large data sets [#bigfile]_
+
+  - KD-tree and pair-wise counting [#kdcount]_ [#cKDTree]_
+
+  - Visualization of smoothed particle field [#gaepsi]_
+
+
+.. [#mbzoom] High-redshift supermassive black holes: accretion through cold flows. http://adsabs.harvard.edu/abs/2014MNRAS.440.1865F
+
+.. [#coldflow] Cold Flows and the First Quasars. http://adsabs.harvard.edu/abs/2012ApJ...745L..29D
+
+.. [#mb2] The MassiveBlack-II simulation: the evolution of haloes and galaxies to z ˜ 0 . http://adsabs.harvard.edu/abs/2015MNRAS.450.1349K
+
+.. [#bluetides] The Formation of Milky Way–mass Disk Galaxies in the First 500 Million Years of a Cold Dark Matter Universe. http://adsabs.harvard.edu/abs/2015ApJ...808L..17F
+
+.. [#lya]  Mock Quasar-Lyman-α forest data-sets for the SDSS-III Baryon Oscillation Spectroscopic Survey. http://adsabs.harvard.edu/abs/2015JCAP...05..060B
+
+.. [#alignment] Intrinsic alignments of galaxies in the MassiveBlack-II simulation: analysis of two-point statistics. http://adsabs.harvard.edu/abs/2015MNRAS.448.3522T
+
+.. [#eulerrecon] Eulerian BAO Reconstructions and N-Point Statistics. http://adsabs.harvard.edu/abs/2015arXiv150806972S
+
+.. [#MP-Gadget] http://bluetides-project.org/coderelease/
+
+.. [#pfft-python] Python binding of a library for massively Parallel Fast Fourier Transform (PFFT). http://github.com/rainwoodman/pfft-python
+
+.. [#mpsort] A library for parallel histogram sort with a Python binding. https://github.com/rainwoodman/MP-sort
+
+.. [#python-mpi-bcast] Boosting python start-up time with MPI. https://github.com/rainwoodman/python-mpi-bcast
+
+.. [#nbodykit] Parallel Data Analysis for N-body simulations. http://github.com/bccp/nbodykit
+
+.. [#kdcount] Spatial data with a KD-tree. http://github.com/rainwoodman/kdcount
+
+.. [#cKDTree] Scipy cKDTree
+
+.. [#gaepsi] http://github.com/rainwoodman/gaepsi
+
+.. [#fastpm] A pure particle mesh solver. http://github.com/rainwoodman/fastpm
+
+.. [#bigfile] Hierarchy Data Files. http://github.com/rainwoodman/bigfile
+
+.. [#desi] http://desi.lbl.gov

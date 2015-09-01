@@ -1,2 +1,2 @@
-Sitemap: http://rainwoodman.github.io/sitemapindex.xml
+Sitemap: http://rainwoodman.github.io/website/sitemapindex.xml
 
