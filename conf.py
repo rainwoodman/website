@@ -121,14 +121,16 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/index.html", "Yu Feng"),
         ((
-            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I Simulation"),
-            ("http://mbii.phys.cmu.edu/", "MassiveBlack II Simulation"),
-            ("http://bluetides-project.org/", "BlueTides Simulation"),
+            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I Simulation ..."),
+            ("http://mbii.phys.cmu.edu/", "MassiveBlack II Simulation ..."),
+            ("http://bluetides-project.org/", "BlueTides Simulation ..."),
         #    ("http://bccp.berkeley.edu/", "Berkeley Center for Cosmological Physics"),
         #    ("http://bids.berkeley.edu/", "Berkeley Institute for Data Science"),
-               ), "Links"),
+               ), "Simulations"),
         ("/teaching.html", "Teaching"),
+        ("/oop.html", "Software Design"),
     ),
 }
 
@@ -266,7 +268,7 @@ COMPILERS = {
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
-# SHOW_BLOG_TITLE = True
+SHOW_BLOG_TITLE = False
 
 # Writes tag cloud data in form of tag_cloud_data.json.
 # Warning: this option will change its default value to False in v8!
