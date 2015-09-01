@@ -52,6 +52,8 @@ Here is a list of research topics and projects that I am interested in and/or ha
 
   - Parallel data analysis of N-body simulations [#nbodykit]_
 
+  - In-node Map-Reduce via Multi-processing [#sharedmem]_
+
   - Hierarchical Data Format for large data sets [#bigfile]_
 
   - KD-tree and pair-wise counting [#kdcount]_ [#cKDTree]_
@@ -88,6 +90,8 @@ Here is a list of research topics and projects that I am interested in and/or ha
 .. [#cKDTree] Scipy cKDTree
 
 .. [#gaepsi] http://github.com/rainwoodman/gaepsi
+
+.. [#sharedmem] http://github.com/rainwoodman/sharedmem
 
 .. [#fastpm] A pure particle mesh solver. http://github.com/rainwoodman/fastpm
 
