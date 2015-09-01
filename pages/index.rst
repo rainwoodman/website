@@ -23,7 +23,17 @@ and philips screwdrivers: ViM doesn't help much on this issue.
 My professional work spans three fields: 
 Cosmology, 
 extreme-scale super-computing applications, and
-tools for scientific data science.
+tools for scientific data science. Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_.
+
+I was part of several largest cosmological simulations. 
+These simulations required some of the largest super-computers todo, running at their full capability 
+for days; that's hundreds of millions of CPU-hours:
+
+- `The MassiveBlack Simulation <http://gigapan.com/gigapans/76215/>`_
+
+- `The MassiveBlack II Simulation <http://mbii.phys.cmu.edu/>`_
+
+- `The BlueTides Simulation <http://bluetides-project.org/>`_
 
 Here is a list of research topics and projects that I am interested in and/or have contributed to:
 

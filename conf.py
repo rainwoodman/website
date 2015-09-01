@@ -123,14 +123,15 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Yu Feng"),
         ((
-            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I Simulation ..."),
-            ("http://mbii.phys.cmu.edu/", "MassiveBlack II Simulation ..."),
-            ("http://bluetides-project.org/", "BlueTides Simulation ..."),
+            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I"),
+            ("http://mbii.phys.cmu.edu/", "MassiveBlack II"),
+            ("http://bluetides-project.org/", "BlueTides"),
         #    ("http://bccp.berkeley.edu/", "Berkeley Center for Cosmological Physics"),
         #    ("http://bids.berkeley.edu/", "Berkeley Institute for Data Science"),
                ), "Simulations"),
         ("/teaching.html", "Teaching"),
         ("/oop.html", "Software Design"),
+        ("https://www.overleaf.com/read/vwdhfqsbqtbq", "CV"),
     ),
 }
 
