@@ -15,7 +15,7 @@ I am also affliated with `Berkeley Institute for Data Science <http://bids.berke
 
 I write a lot of programs that produce and sweep through a lot of data; I mainly use `ViM <http://www.vim.org>`_ to
 do the programming. Those are worthwhile and allowed to be hosted on the internet, are can be found at
-`my github page <http://www.github.com/rainwoodman>`_.
+`my github page <http://www.github.com/rainwoodman>`_. In earlier days I was involved with GNOME2 with a side-line project `gnome-globalmenu <https://code.google.com/p/gnome2-globalmenu>`_. 
 
 I play guitars and do guitar set-ups for friends; for this purpose I mainly use allen wrenches
 and philips screwdrivers: ViM doesn't help much on this issue. 
@@ -26,14 +26,16 @@ extreme-scale super-computing applications, and
 tools for scientific data science. Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_.
 
 I was part of several largest cosmological simulations. 
-These simulations required some of the largest super-computers todo, running at their full capability 
-for days; that's hundreds of millions of CPU-hours:
+These simulations required some of the largest super-computers today(or then), running at their full capability 
+for days; that's hundreds of millions of CPU-hours.  
+We do make important predictions about blackholes and galaxies with these simulations!
 
 - `The MassiveBlack Simulation <http://gigapan.com/gigapans/76215/>`_
 
 - `The MassiveBlack II Simulation <http://mbii.phys.cmu.edu/>`_
 
 - `The BlueTides Simulation <http://bluetides-project.org/>`_
+
 
 Here is a list of research topics and projects that I have contributed to:
 
@@ -91,13 +93,13 @@ Here is a list of research topics and projects that I have contributed to:
 
 .. [#mpsort] A library for parallel histogram sort with a Python binding. https://github.com/rainwoodman/MP-sort
 
-.. [#python-mpi-bcast] Boosting python start-up time with MPI. https://github.com/rainwoodman/python-mpi-bcast
+.. [#python-mpi-bcast] Boosting python start-up speed with MPI. https://github.com/rainwoodman/python-mpi-bcast
 
 .. [#nbodykit] Parallel Data Analysis for N-body simulations. http://github.com/bccp/nbodykit
 
 .. [#kdcount] Spatial data with a KD-tree. http://github.com/rainwoodman/kdcount
 
-.. [#cKDTree] Scipy cKDTree
+.. [#cKDTree] Scipy cKDTree rewrite (pending, https://github.com/sturlamolden/scipy/pull/1)
 
 .. [#gaepsi] http://github.com/rainwoodman/gaepsi
 
