@@ -49,7 +49,7 @@ Here is a list of research topics and projects that I have contributed to:
 
 - Cosmology
 
-  - Large Scale Structure and cosmology; [#lya]_ [#eulerrecon]_ [#fastpm]_
+  - Large Scale Structure and cosmology, perturbation theory; [#lya]_ [#eulerrecon]_ [#fastpm]_ [#wiggleornot]_
 
   - Formation of galaxies, galaxy clusters, star-formation models 
     and super-massive blackholes. [#coldflow]_ [#mbzoom]_ [#mb2]_ [#bluetides]_
@@ -94,6 +94,8 @@ Here is a list of research topics and projects that I have contributed to:
 .. [#alignment] Intrinsic alignments of galaxies in the MassiveBlack-II simulation: analysis of two-point statistics. http://adsabs.harvard.edu/abs/2015MNRAS.448.3522T
 
 .. [#eulerrecon] Eulerian BAO Reconstructions and N-Point Statistics. http://adsabs.harvard.edu/abs/2015arXiv150806972S
+
+.. [#wiggleornot] Perturbation theory, effective field theory, and oscillations in the power spectrum http://adsabs.harvard.edu/abs/2015arXiv150902120V
 
 .. [#MP-Gadget] http://bluetides-project.org/coderelease/
 
