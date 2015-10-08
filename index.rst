@@ -3,11 +3,13 @@
 .. type: text
 .. hidetitle: true
 
-.. attention::
+.. class:: col-md-3 pull-right
 
-  .. class:: align-center
+    .. attention::
 
-    Probably need to put a `suited-up` picture here.
+      .. class:: align-center
+
+        Probably need to put a `suited-up` picture here.
 
 
 I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_. 

@@ -648,3 +648,10 @@ article.post-micro {
         display: none;
     }
 }
+
+body {
+font-size: 200%;
+}
+.container {
+width: 40em;
+}
