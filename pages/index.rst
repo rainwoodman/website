@@ -3,11 +3,13 @@
 .. type: text
 .. hidetitle: true
 
-.. attention::
+.. class:: col-md-3 pull-right
 
-  .. class:: align-center
+    .. attention::
 
-    Probably need to put a `suited-up` picture here.
+      .. class:: align-center
+
+        Probably need to put a `suited-up` picture here.
 
 
 I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_. 
@@ -21,9 +23,15 @@ I play guitars and do guitar set-ups for friends; for this purpose I mainly use 
 and philips screwdrivers: ViM doesn't help much on this issue. 
 
 My professional work spans three fields: 
-Cosmology, 
-extreme-scale super-computing applications, and
-tools for scientific data science. Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_.
+
+- Cosmology, 
+
+- extreme-scale super-computing applications, and
+
+- tools for scientific data science. 
+
+Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_; or 
+`the list of publications <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Papers&libid=5516e5bffc>`_.
 
 I was part of several largest cosmological simulations. 
 These simulations required some of the largest super-computers today(or then), running at their full capability 
@@ -41,7 +49,7 @@ Here is a list of research topics and projects that I have contributed to:
 
 - Cosmology
 
-  - Large Scale Structure and cosmology; [#lya]_ [#eulerrecon]_ [#fastpm]_
+  - Large Scale Structure and cosmology, perturbation theory; [#lya]_ [#eulerrecon]_ [#fastpm]_ [#wiggleornot]_
 
   - Formation of galaxies, galaxy clusters, star-formation models 
     and super-massive blackholes. [#coldflow]_ [#mbzoom]_ [#mb2]_ [#bluetides]_
@@ -86,6 +94,8 @@ Here is a list of research topics and projects that I have contributed to:
 .. [#alignment] Intrinsic alignments of galaxies in the MassiveBlack-II simulation: analysis of two-point statistics. http://adsabs.harvard.edu/abs/2015MNRAS.448.3522T
 
 .. [#eulerrecon] Eulerian BAO Reconstructions and N-Point Statistics. http://adsabs.harvard.edu/abs/2015arXiv150806972S
+
+.. [#wiggleornot] Perturbation theory, effective field theory, and oscillations in the power spectrum http://adsabs.harvard.edu/abs/2015arXiv150902120V
 
 .. [#MP-Gadget] http://bluetides-project.org/coderelease/
 
