@@ -31,7 +31,7 @@ My professional work spans three fields:
 - tools for scientific data science. 
 
 Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_; or 
-`the list of publications <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Pub&libid=5581a97827>`_.
+`the list of publications <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Papers&libid=5516e5bffc>`_.
 
 I was part of several largest cosmological simulations. 
 These simulations required some of the largest super-computers today(or then), running at their full capability 
