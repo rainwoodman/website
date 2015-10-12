@@ -122,13 +122,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Yu Feng"),
-        ((
-            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I"),
-            ("http://mbii.phys.cmu.edu/", "MassiveBlack II"),
-            ("http://bluetides-project.org/", "BlueTides"),
+#        ((
+#            ("http://gigapan.com/gigapans/76215/", "MassiveBlack I"),
+#            ("http://mbii.phys.cmu.edu/", "MassiveBlack II"),
+#            ("http://bluetides-project.org/", "BlueTides"),
         #    ("http://bccp.berkeley.edu/", "Berkeley Center for Cosmological Physics"),
         #    ("http://bids.berkeley.edu/", "Berkeley Institute for Data Science"),
-               ), "Simulations"),
+#               ), "Simulations"),
         ("/teaching.html", "Teaching"),
         ("/oop.html", "Software Design"),
         ("https://www.overleaf.com/read/vwdhfqsbqtbq", "CV"),
@@ -894,7 +894,7 @@ UNSLUGIFY_TITLES = True
 # }
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
-# USE_BUNDLES = True
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
