@@ -16,7 +16,7 @@ I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physic
 I am also affliated with `Berkeley Institute for Data Science <http://bids.berkeley.edu>`_.
 
 I write a lot of programs that produce and sweep through a lot of data; I mainly use `ViM <http://www.vim.org>`_ to
-do the programming. Those are worthwhile and allowed to be hosted on the internet, and can be found at
+do the programming. Those are worthwhile and allowed to be hosted on the internet, can be found at
 `my github page <http://www.github.com/rainwoodman>`_. In earlier days I was involved with GNOME2 with a side-line project `gnome-globalmenu <https://code.google.com/p/gnome2-globalmenu>`_. 
 
 I play guitars and do guitar set-ups for friends; for this purpose I mainly use allen wrenches
