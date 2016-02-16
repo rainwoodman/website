@@ -4,14 +4,15 @@
 
 Students who *were* working with me: 
 
-- Man-yat Chu (Undergrad, Chinese University of Hong Kong)
+- Man-yat Chu (Undergrad, Chinese University of Hong Kong) via Uros Seljak
 
+- Jaime Sahagun (Undergrad, UCB) via Uros Seljak
 
 Students who *are* working with me:
 
-- Jaime Sahagun (Undergrad, UCB)
+- Mellisa Joseph (Undergrad, UCB) via Uros Seljak
 
-- Mellisa Joseph (Undergrad, UCB)
+- Ellie Kitanidis (grad, UCB) via Martin White
 
 I was a teaching assistant for Physics for Engineers I and II at `Carnegie Mellon University <http://www.cmu.edu>`_, 
 several years ago.
