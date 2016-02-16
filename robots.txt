@@ -1,2 +1,4 @@
 Sitemap: http://rainwoodman.github.io/website/sitemapindex.xml
 
+User-Agent: *
+Host: rainwoodman.github.io
