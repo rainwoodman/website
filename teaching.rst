@@ -2,26 +2,24 @@
 .. slug: teaching
 .. type: text
 
-Students who *were* working with me: 
+Over these summers at Berkeley I mentored several visiting students:
 
-- Jaime Sahagun (Undergrad, UCB) via Uros Seljak
+- Jaime Sahagun (Undergrad, UCB)
 
-- Melissa Joseph (Undergrad, UCB) via Uros Seljak
+- Melissa Joseph (Undergrad, UCB)
 
-- Lukas Heizmann (post-grad, MPA) via Uros Seljak
+- Lukas Heizmann (post-grad, MPA)
 
-Students who *are* working with me:
+- Man-yat Chu (undergrad, Chinese University of Hong Kong)
 
-- Ellie Kitanidis (grad, UCB) via Martin White
+- Biwei Dai (undergrad, PKU)
 
-- Man-yat Chu (grad, UCB) via Uros Seljak
-
-- Biwei Dai (undergrad, PKU) via Uros Seljak
-
-I was a teaching assistant for Physics for Engineers I and II at `Carnegie Mellon University <http://www.cmu.edu>`_, 
+I was a teaching assistant for Physics for Engineers I and II at
+`Carnegie Mellon University <http://www.cmu.edu>`_, 
 several years ago.
 Here are `some problem sets and figures <http://web.phys.cmu.edu/~yfeng1/home/Recitations/>`_ 
-I reproduced from the textbooks for the students. I drew the figures with [Inkscape]_
+I reproduced from the textbooks for the students.
+I drew the figures with [Inkscape]_
 
 .. [Inkscape] http:://www.inkscape.org
 
