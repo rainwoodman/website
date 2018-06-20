@@ -130,8 +130,8 @@ NAVIGATION_LINKS = {
         #    ("http://bids.berkeley.edu/", "Berkeley Institute for Data Science"),
 #               ), "Simulations"),
         ("/teaching.html", "Teaching"),
-        ("/oop.html", "Software Design"),
-        ("https://www.overleaf.com/read/vwdhfqsbqtbq", "CV"),
+#        ("/oop.html", "Software Design"),
+        ("https://www.overleaf.com/read/bwbpchbcwcfq", "CV"),
     ),
 }
 
