@@ -12,44 +12,31 @@
         Probably need to put a `suited-up` picture here.
 
 
-I am a Cosmology Data Science Fellow at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_. 
-I am also affliated with `Berkeley Institute for Data Science <http://bids.berkeley.edu>`_.
+I am an associate project scientist at `Berkeley Center for Cosmological Physics <http://bccp.berkeley.edu>`_.
+I develop and maintain the software stack that supports the research at BCCP, including my own research.
 
-I write a lot of programs that produce and sweep through a lot of data; I mainly use `ViM <http://www.vim.org>`_ to
-do the programming. Those are worthwhile and allowed to be hosted on the internet, can be found at
-`my github page <http://www.github.com/rainwoodman>`_. In earlier days I was involved with GNOME2 with a side-line project `gnome-globalmenu <https://code.google.com/p/gnome2-globalmenu>`_. 
-
-I play guitars and do guitar set-ups for friends; for this purpose I mainly use allen wrenches
-and philips screwdrivers: ViM doesn't help much on this issue. 
+I develop a lot of software packages, and contributes to many more.  Most of these can be found at
+`my github page <http://www.github.com/rainwoodman>`_.
+In earlier days I was involved with GNOME2 with a side-line project
+`gnome-globalmenu <https://code.google.com/p/gnome2-globalmenu>`_; I do not think many people still use it;
+as the features have been partially included in GNOME3 and Ubuntu Unity.
 
 My professional work spans three fields: 
 
-- Cosmology, 
+- cosmology,
 
-- extreme-scale super-computing applications, and
+- massively parallel super-computing applications, and
 
-- tools for scientific data science. 
+- methods and software tools for data analysis;
 
-Please refer to my `CV <https://www.overleaf.com/read/vwdhfqsbqtbq>`_; or 
-`the list of publications <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Papers&libid=5516e5bffc>`_.
-
-I was part of several largest cosmological simulations. 
-These simulations required some of the largest super-computers today(or then), running at their full capability 
-for days; that's hundreds of millions of CPU-hours.  
-We do make important predictions about blackholes and galaxies with these simulations!
-
-- `The MassiveBlack Simulation <http://gigapan.com/gigapans/76215/>`_
-
-- `The MassiveBlack II Simulation <http://mbii.phys.cmu.edu/>`_
-
-- `The BlueTides Simulation <http://bluetides-project.org/>`_
-
+Please refer to my `CV <https://www.overleaf.com/read/bwbpchbcwcfq>`_; or
+`a list of publications <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Papers&libid=5516e5bffc>`_.
 
 Here is a list of research topics and projects that I have contributed to:
 
 - Cosmology
 
-  - Large Scale Structure and cosmology, perturbation theory; [#lya]_ [#eulerrecon]_ [#fastpm]_ [#wiggleornot]_
+  - Large Scale Structure (LSS) and perturbation theory; [#lya]_ [#eulerrecon]_ [#fastpm]_ [#wiggleornot]_
 
   - Formation of galaxies, galaxy clusters, star-formation models 
     and super-massive blackholes. [#coldflow]_ [#mbzoom]_ [#mb2]_ [#bluetides]_
@@ -66,9 +53,13 @@ Here is a list of research topics and projects that I have contributed to:
 
   - Massively parallel sorting; [#mpsort]_
 
-  - Python on super-computers; [#python-mpi-bcast]_
+  - Efficient launching of Python applications on super-computers; [#python-mpi-bcast]_
 
-- Scientific Data Analysis
+- Software and methods for data analysis
+
+  - Automated differentiation [#vmad]_
+
+  - Optimization beyond first order [#abopt]_
 
   - Parallel data analysis of N-body simulations [#nbodykit]_
 
@@ -76,9 +67,20 @@ Here is a list of research topics and projects that I have contributed to:
 
   - Hierarchical Data Format for large data sets [#bigfile]_
 
-  - KD-tree and pair-wise counting [#kdcount]_ [#cKDTree]_
+  - KD-tree, pair-wise counting and Friends-of-Friends [#kdcount]_ [#cKDTree]_
 
   - Visualization of smoothed particle field [#gaepsi]_
+
+I was part of several largest cosmological simulations. 
+These simulations required some of the largest super-computers today(or then), running at their full capability 
+for days; that's hundreds of millions of CPU-hours.
+We do make important predictions about blackholes and galaxies with these simulations.
+
+- `The MassiveBlack Simulation <http://gigapan.com/gigapans/76215/>`_
+
+- `The MassiveBlack II Simulation <http://mbii.phys.cmu.edu/>`_
+
+- `The BlueTides Simulation <http://bluetides-project.org/>`_
 
 
 .. [#mbzoom] High-redshift supermassive black holes: accretion through cold flows. http://adsabs.harvard.edu/abs/2014MNRAS.440.1865F
@@ -118,5 +120,9 @@ Here is a list of research topics and projects that I have contributed to:
 .. [#fastpm] A pure particle mesh solver. http://github.com/rainwoodman/fastpm
 
 .. [#bigfile] Hierarchy Data Files. http://github.com/rainwoodman/bigfile
+
+.. [#vmad] A simple autodiff and a small library of operators. http://github.com/rainwoodman/vmad
+
+.. [#abopt] (ABstract OPTimizer) - optimization of generic numerical models. http://github.com/bccp/abopt
 
 .. [#desi] http://desi.lbl.gov
